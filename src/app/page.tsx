@@ -84,6 +84,18 @@ export default function Home() {
               <span className="font-medium text-gray-900 dark:text-white">Gas Rate Calculator</span>
               <span className="block text-sm text-gray-500 dark:text-gray-400">Calculate gas appliance heat input (kW)</span>
             </a>
+            <a href="https://mortgagecalculator.quest" className="block p-3 rounded-lg bg-white dark:bg-gray-800 hover:shadow-md transition-shadow">
+              <span className="font-medium text-gray-900 dark:text-white">Mortgage Calculator</span>
+              <span className="block text-sm text-gray-500 dark:text-gray-400">Calculate monthly mortgage payments</span>
+            </a>
+            <a href="https://stampdutycalculator.quest" className="block p-3 rounded-lg bg-white dark:bg-gray-800 hover:shadow-md transition-shadow">
+              <span className="font-medium text-gray-900 dark:text-white">Stamp Duty Calculator</span>
+              <span className="block text-sm text-gray-500 dark:text-gray-400">Calculate UK SDLT, LBTT, and LTT</span>
+            </a>
+            <a href="https://rentvsbuycalculator.quest" className="block p-3 rounded-lg bg-white dark:bg-gray-800 hover:shadow-md transition-shadow">
+              <span className="font-medium text-gray-900 dark:text-white">Rent vs Buy Calculator</span>
+              <span className="block text-sm text-gray-500 dark:text-gray-400">Compare renting vs buying costs</span>
+            </a>
             <a href="https://watersavingcalculator.quest" className="block p-3 rounded-lg bg-white dark:bg-gray-800 hover:shadow-md transition-shadow">
               <span className="font-medium text-gray-900 dark:text-white">Water Saving Calculator</span>
               <span className="block text-sm text-gray-500 dark:text-gray-400">Estimate water usage and savings</span>
@@ -95,10 +107,6 @@ export default function Home() {
             <a href="https://utilitybillcalculator.quest" className="block p-3 rounded-lg bg-white dark:bg-gray-800 hover:shadow-md transition-shadow">
               <span className="font-medium text-gray-900 dark:text-white">Utility Bill Calculator</span>
               <span className="block text-sm text-gray-500 dark:text-gray-400">Estimate combined utility costs</span>
-            </a>
-            <a href="https://mortgagecalculator.quest" className="block p-3 rounded-lg bg-white dark:bg-gray-800 hover:shadow-md transition-shadow">
-              <span className="font-medium text-gray-900 dark:text-white">Mortgage Calculator</span>
-              <span className="block text-sm text-gray-500 dark:text-gray-400">Calculate monthly mortgage payments</span>
             </a>
             <a href="https://homeinsurance.quest" className="block p-3 rounded-lg bg-white dark:bg-gray-800 hover:shadow-md transition-shadow">
               <span className="font-medium text-gray-900 dark:text-white">Home Insurance</span>
